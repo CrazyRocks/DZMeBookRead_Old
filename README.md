@@ -1,2 +1,9 @@
-# DZMeBookRead_Old
-(老版本)原作者DZM 最完整小说阅读器Demo 支持字体 翻页效果(无效果,平滑,仿真,上下滚动) 字体大小切换 背景颜色切换 等等.. 阅读记录保存与下次阅读定位 (小说广告)章节尾部广告占位图片 亮度调整 Txt格式解析 别的格式也可以解析 需要的可以联系我 我这里只做了一种（由于存放字体文件会导致文件太大 我这里面的字体就随便用了几个系统的代替下 这样下载包也小,由于先写完公司项目则文件名用的是公司前缀没时间改将就啦) 另外 小说《覆盖效果》(github搜索 DZMCoverAnimation )我已经封装 支持swift混编 使用简单
+# DZMeBookRead
+
+(老版本)原作者DZM 最完整小说阅读器Demo 支持字体 翻页效果(无效果,平滑,仿真,上下滚动) 时间 电池 章节尾部占位广告图片(可取消) 字体大小切换 背景颜色切换 等等.. 阅读记录保存与下次阅读定位 亮度调整 Txt格式解析 别的格式也可以解析 需要的可以联系我 我这里只做了一种（由于存放字体文件会导致文件太大 我这里面的字体就随便用了几个系统的代替下 这样下载包也小) 注意:Xcode编写版本7.3.1 效果图如下(下载包也有):     ---------------- 技术QQ群:52181885
+
+新版本《DZMeBookRead》: https://github.com/dengzemiao/DZMeBookRead
+
+小说《覆盖效果》DZMCoverAnimation: https://github.com/dengzemiao/DZMCoverAnimation
+
+![CarouselView in action](Untitled.gif)
